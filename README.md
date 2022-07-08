@@ -1,2 +1,2 @@
-# generating-audio-with-lstm
-Generating Experimental Audio With LSTMs for Video Game Music as a tool for indie game developers
+# Generating Audio with LSTMs
+Generating experimental audio with Long Short-term Memory Neural Networks for video game music as a tool for indie game developers
